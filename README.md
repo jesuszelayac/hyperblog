@@ -38,3 +38,5 @@ A: Aunque el curso puede enfocarse en el uso de la línea de comandos para ense�
 
 **Q: ¿Este curso me prepara para contribuir a proyectos de código abierto?**
 A: Definitivamente. Aprenderás las habilidades fundamentales de Git y GitHub necesarias para contribuir de manera efectiva a proyectos de código abierto.
+
+Y como amable recordatorio: **"Este readme.md es un chiste"**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor [ve a ver el curso](https://platzi.com/cursos/git-github/ "ve a ver el curso").
