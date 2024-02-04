@@ -1,5 +1,5 @@
-# Hyperblog
-Un blog chevere para el curso de Git y Github de Platzi 💚
+# Hyperblog 💚
+Un blog chevere para el [curso de Git y Github](https://platzi.com/cursos/git-github/ "curso de Git y Github") de Platzi 💚
 > "Domina el arte de la colaboración y el control de versiones con Git y GitHub: donde cada línea de código cuenta una historia y cada commit abre un mundo de posibilidades para construir juntos el futuro del software."
 > Anónimo
 
