@@ -1,6 +1,6 @@
 # Hyperblog
 Un blog chevere para el curso de Git y Github de Platzi 💚
-> "Explorando las huellas del pasado: sumérgete en el fascinante mundo de los dinosaurios y descubre con nosotros las maravillas de una era perdida, donde la ciencia y la imaginación se unen para revivir a las majestuosas criaturas que una vez dominaron la Tierra".
+> "Domina el arte de la colaboración y el control de versiones con Git y GitHub: donde cada línea de código cuenta una historia y cada commit abre un mundo de posibilidades para construir juntos el futuro del software."
 > Anónimo
 
 Los temas que se desarrollan en el curso son : 😊
