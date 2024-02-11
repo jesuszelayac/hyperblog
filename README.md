@@ -15,6 +15,7 @@ Los temas que se desarrollan en el curso son : 😊
 8. Colaboración Open Source con Git y GitHub
 9. Casos de Estudio y Proyecto Final
 10. Creado por el increible team Platzi
+11. Incluye ejemplos en Linux, Windows y Mac
 
 [![git](https://i.imgur.com/xk2ScFP.jpg "git")](https://i.imgur.com/xk2ScFP.jpg "git")
 
