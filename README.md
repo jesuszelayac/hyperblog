@@ -16,6 +16,7 @@ Los temas que se desarrollan en el curso son : 😊
 9. Casos de Estudio y Proyecto Final
 10. Creado por el increible team Platzi
 11. Incluye ejemplos en Linux, Windows y Mac
+12. Disponible para todas las edades
 
 [![git](https://i.imgur.com/xk2ScFP.jpg "git")](https://i.imgur.com/xk2ScFP.jpg "git")
 
